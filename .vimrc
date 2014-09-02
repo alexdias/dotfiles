@@ -34,3 +34,6 @@ set smarttab
 
 set wildmode=longest,list,full
 set wildmenu
+
+filetype on
+filetype plugin on
